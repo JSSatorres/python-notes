@@ -9,4 +9,122 @@ Convierte todos los caracteres de una cadena a mayúsculas.
 ```python
 text = "hello world"
 upper_text = text.upper()
+Resultado: "HELLO WORLD"
+
+
+## `lower()`
+
+Convierte todos los caracteres de una cadena a mayúsculas.
+
+```python
+text = "HELLO WORLD"
+upper_text = text.upper()
+Resultado: "hello world"
+
+## `upper()`
+
+Convierte todos los caracteres de una cadena a mayúsculas.
+
+```python
+text = "hello world"
+upper_text = text.upper()
+# Resultado: "HELLO WORLD"
+
+## `upper()`
+
+Convierte todos los caracteres de una cadena a mayúsculas.
+
+```python
+text = "hello world"
+upper_text = text.upper()
+# Resultado: "HELLO WORLD"
+
+## `upper()`
+
+Convierte todos los caracteres de una cadena a mayúsculas.
+
+```python
+text = "hello world"
+upper_text = text.upper()
+# Resultado: "HELLO WORLD"
+
+## `upper()`
+
+Convierte todos los caracteres de una cadena a mayúsculas.
+
+```python
+text = "hello world"
+upper_text = text.upper()
+# Resultado: "HELLO WORLD"
+
+## `upper()`
+
+Convierte todos los caracteres de una cadena a mayúsculas.
+
+```python
+text = "hello world"
+upper_text = text.upper()
+# Resultado: "HELLO WORLD"
+
+## `upper()`
+
+Convierte todos los caracteres de una cadena a mayúsculas.
+
+```python
+text = "hello world"
+upper_text = text.upper()
+# Resultado: "HELLO WORLD"
+
+## `upper()`
+
+Convierte todos los caracteres de una cadena a mayúsculas.
+
+```python
+text = "hello world"
+upper_text = text.upper()
+# Resultado: "HELLO WORLD"
+
+## `upper()`
+
+Convierte todos los caracteres de una cadena a mayúsculas.
+
+```python
+text = "hello world"
+upper_text = text.upper()
+# Resultado: "HELLO WORLD"
+
+## `upper()`
+
+Convierte todos los caracteres de una cadena a mayúsculas.
+
+```python
+text = "hello world"
+upper_text = text.upper()
+# Resultado: "HELLO WORLD"
+
+## `upper()`
+
+Convierte todos los caracteres de una cadena a mayúsculas.
+
+```python
+text = "hello world"
+upper_text = text.upper()
+# Resultado: "HELLO WORLD"
+
+## `upper()`
+
+Convierte todos los caracteres de una cadena a mayúsculas.
+
+```python
+text = "hello world"
+upper_text = text.upper()
+# Resultado: "HELLO WORLD"
+
+## `upper()`
+
+Convierte todos los caracteres de una cadena a mayúsculas.
+
+```python
+text = "hello world"
+upper_text = text.upper()
 # Resultado: "HELLO WORLD"
