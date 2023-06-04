@@ -22,15 +22,34 @@ Convierte todos los caracteres de una cadena a mayúsculas.
 
 ```python
 text = "HELLO WORLD"
-upper_text = text.upper()
+upper_text = text.lower()
 Resultado: "hello world"
 ```
-## `upper()`
+## `strip()`
 
-Convierte todos los caracteres de una cadena a mayúsculas.
+Elimina los espacios en blanco al principio y al final de una cadena.
 
 ```python
-text = "hello world"
-upper_text = text.upper()
-# Resultado: "HELLO WORLD"
+text = "   hello world   "
+stripped_text = text.strip()
+Resultado: "hello world"
+```
+
+## `split()`
+
+Divide una cadena en una lista de subcadenas utilizando un delimitador.
+
+```python
+text = "apple,banana,orange"
+fruits = text.split(",")
+Resultado: ['apple', 'banana', 'orange']
+```
+## `join()`
+
+Une una lista de cadenas en una sola cadena utilizando un separador.
+
+```python
+fruits = ['apple', 'banana', 'orange']
+text = ",".join(fruits)
+Resultado: "apple,banana,orange"
 ```
