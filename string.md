@@ -54,6 +54,10 @@ text = ",".join(fruits)
 Resultado: "apple,banana,orange"
 ```
 
+# Acceder a los elementos del índice 2 al 5 (excluyendo el 5)
+my_list[2:5]
+# Acceder a los elementos desde el principio hasta el índice 4 (excluyendo el 4)
+my_list[:4]
 # Acceder a todos los elementos de la lista
 my_list[:]
 
