@@ -53,3 +53,15 @@ fruits = ['apple', 'banana', 'orange']
 text = ",".join(fruits)
 Resultado: "apple,banana,orange"
 ```
+
+# Acceder a todos los elementos de la lista
+my_list[:]
+
+# Acceder a los elementos del índice 3 hasta el final
+my_list[3:]
+
+# Acceder a los elementos con un paso de 2
+my_list[::2]
+
+# Acceder a los elementos en orden inverso
+my_list[::-1]
