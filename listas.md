@@ -1,6 +1,6 @@
 # Listas en Python
 
-En Python, una `lista es una estructura de datos ***mutable*** que permite almacenar una ***colección ordenada*** de elementos. A diferencia de las tuplas, las listas pueden modificarse una vez creadas, lo que las hace muy flexibles`.
+En Python, una 'lista es una estructura de datos ***mutable*** que permite almacenar una ***colección ordenada*** de elementos. A diferencia de las tuplas, las listas pueden modificarse una vez creadas, lo que las hace muy flexibles'.
 
 ## Creación de listas
 
