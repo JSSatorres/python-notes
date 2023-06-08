@@ -1,6 +1,6 @@
 # Tuplas en Python
 
-En Python, una tupla es una secuencia inmutable de elementos separados por comas. Se utilizan para almacenar varios elementos relacionados. A diferencia de las listas, las tuplas no se pueden modificar una vez creadas, lo que significa que son inmutables.
+En Python, una tupla es una ***secuencia inmutable*** de elementos separados por comas. Se utilizan para almacenar varios elementos relacionados. A diferencia de las listas, las tuplas no se pueden modificar una vez creadas, lo que significa que son inmutables.
 
 ## Creación de tuplas
 
