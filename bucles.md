@@ -18,14 +18,15 @@ En el ejemplo anterior, el bucle while imprimirá los números del 0 al 4. La va
 
 ## Bucle for
 
-El bucle for se utiliza para iterar sobre una secuencia (como una lista, tupla o rango) o cualquier objeto iterable.
+El loop for se utiliza cuando se conoce la cantidad exacta de iteraciones que se deben realizar. Se utiliza principalmente para iterar sobre una secuencia de elementos, como una lista o una cadena de texto.
+
+Ejemplo de un loop for que itera sobre una lista e imprime cada elemento:
 
 ```python
-i = 0
+frutas = ["manzana", "plátano", "naranja"]
 
-while i < 5:
-    print(i)
-    i += 1
+for fruta in frutas:
+    print(fruta)
 ```
 
 En el ejemplo anterior, el bucle while imprimirá los números del 0 al 4. La variable i se inicializa en 0 y se incrementa en 1 en cada iteración hasta que la condición i < 5 se vuelva falsa.
