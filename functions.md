@@ -34,3 +34,19 @@ def sumar(a, b):
     return a + b
 ```
 En el ejemplo anterior, hemos definido una función llamada sumar que toma dos parámetros a y b. La función devuelve la suma de estos dos valores utilizando la declaración return.
+
+## Multiples parametros
+
+La función en Python, f(*x), acepta un número variable de argumentos y devuelve la suma de esos argumentos. Aquí tienes una versión formateada correctamente del código:
+
+```python
+def f(*x):
+    return sum(x)
+```
+En esta función, *x es una sintaxis especial que indica que x es un parámetro que puede aceptar múltiples argumentos. La función sum() se utiliza para sumar todos los valores pasados como argumentos en x. Luego, la suma total se devuelve como resultado.
+
+```python
+resultado = f(1, 2, 3, 4)
+print(resultado)
+10
+```
