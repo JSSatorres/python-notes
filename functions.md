@@ -1,6 +1,6 @@
 # Funciones en Python
 
-Las funciones en Python son bloques de código reutilizables que realizan una tarea específica. Proporcionan una forma organizada y modular de estructurar y ejecutar tareas en un programa. Al utilizar funciones, puedes dividir tu código en partes más pequeñas y manejables, lo que facilita la comprensión y el mantenimiento del mismo.
+Las funciones en Python son ***bloques de código reutilizables*** que realizan una tarea específica. Proporcionan una forma organizada y modular de estructurar y ejecutar tareas en un programa. Al utilizar funciones, puedes dividir tu código en partes más pequeñas y manejables, lo que facilita la comprensión y el mantenimiento del mismo.
 
 ## Definición de una función
 
