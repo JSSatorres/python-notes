@@ -28,5 +28,3 @@ frutas = ["manzana", "plátano", "naranja"]
 for fruta in frutas:
     print(fruta)
 ```
-
-En el ejemplo anterior, el bucle while imprimirá los números del 0 al 4. La variable i se inicializa en 0 y se incrementa en 1 en cada iteración hasta que la condición i < 5 se vuelva falsa.
