@@ -1,6 +1,6 @@
 # Diccionarios en Python
 
-En Python, un diccionario es una estructura de datos que permite almacenar pares clave-valor. Cada clave del diccionario se asocia con un valor, y puedes acceder a los valores utilizando sus claves. Los diccionarios son útiles cuando necesitas almacenar y recuperar datos de forma eficiente utilizando una clave personalizada.
+En Python, un diccionario es `una estructura de datos que permite almacenar pares clave-valor`. Cada clave del diccionario se asocia con un valor, y puedes acceder a los valores utilizando sus claves. Los diccionarios son útiles cuando necesitas almacenar y recuperar datos de forma eficiente utilizando una clave personalizada.
 
 ## Creación de diccionarios
 
