@@ -1,6 +1,6 @@
 # Conjuntos (Sets) en Python
 
-En Python, un conjunto es una ***colección desordenada de elementos únicos***. Los conjuntos se utilizan para almacenar múltiples elementos sin un orden específico y garantizan que no haya duplicados.
+En Python, un conjunto es una ***colección desordenada de elementos únicos***. Los conjuntos se utilizan para almacenar múltiples elementos sin un orden específico y `garantizan que no haya duplicados`.
 
 ## Creación de conjuntos
 
