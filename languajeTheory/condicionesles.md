@@ -2,7 +2,7 @@
 
 ## Estructura condicional if, elif, else
 
-La estructura condicional if se utiliza para ejecutar un bloque de código si se cumple una condición. La estructura `elif` se utiliza para comprobar condiciones adicionales.
+La estructura condicional if se utiliza para `ejecutar un bloque de código si se cumple una condición`. La estructura `elif` se utiliza para comprobar condiciones adicionales.
 
 ```python
 a = 10
