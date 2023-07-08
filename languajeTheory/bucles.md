@@ -1,6 +1,6 @@
 # Bucles en Python
 
-Los bucles son estructuras de control que permiten repetir un bloque de código varias veces. En Python, hay dos tipos principales de bucles: el bucle `while` y el bucle `for`.
+Los bucles son estructuras de control que `permiten repetir un bloque de código varias veces`. En Python, hay dos tipos principales de bucles: el bucle `while` y el bucle `for`.
 
 ## Bucle while
 
