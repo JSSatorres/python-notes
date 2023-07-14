@@ -13,7 +13,7 @@ from sklearn.linear_model import LinearRegression
 ```
 ## Paso 2: Preparar los datos de entrenamiento
 
-A continuación, debemos preparar nuestros datos de entrenamiento. Supongamos que tenemos dos variables: X, que representa la variable independiente, y y, que representa la variable dependiente. Necesitamos organizar estos datos en forma de arrays de numpy.
+A continuación, debemos preparar nuestros datos de entrenamiento. Supongamos que tenemos dos variables: X, que representa la variable independiente, y que representa la variable dependiente. Necesitamos organizar estos datos en forma de arrays de numpy.
 
 ```python
 X = np.array([[1], [2], [3], [4], [5]])  # Variable independiente
