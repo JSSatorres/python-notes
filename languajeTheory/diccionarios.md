@@ -17,6 +17,15 @@ diccionario1 = {"nombre": "Juan", "edad": 30, "ciudad": "Madrid"}
 ```python
 diccionario2 = dict([("nombre", "María"), ("edad", 25), ("ciudad", "Barcelona")])
 ```
+
+2.Crear una lista de dicionarios
+
+```python
+personas = [
+    {"nombre": "Juan", "edad": 30, "ciudad": "Madrid"},
+    {"nombre": "Juan Luis", "edad": 40, "ciudad": "Linares"}
+]
+```
 ## Acceso a elementos de un diccionario
 
 Puedes acceder a los valores de un diccionario utilizando sus claves. Para acceder a un valor específico, simplemente utiliza la clave entre corchetes `[]` o el método `get()` del diccionario.
