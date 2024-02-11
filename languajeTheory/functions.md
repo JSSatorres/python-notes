@@ -12,6 +12,15 @@ def saludar(nombre):
 ```
 
 Una vez definida una función, podemos llamarla en cualquier parte del programa para ejecutar el bloque de código asociado.
+# Funciones en Python
+
+Las funciones en Python son ***bloques de código reutilizables*** que realizan una tarea específica. Proporcionan una forma organizada y modular de estructurar y ejecutar tareas en un programa. Al utilizar funciones, puedes dividir tu código en partes más pequeñas y manejables, lo que facilita la comprensión y el mantenimiento del mismo.
+
+## Definición de una función
+
+Para definir una función en Python, utilizamos la palabra clave def, seguida del nombre de la función y paréntesis que pueden contener los parámetros de la función. La definición de la función se completa con dos puntos (:) y el bloque de código indentado que se ejecutará cuando se llame a la función.
+
+```python
 
 ## Llamada a una función
 
