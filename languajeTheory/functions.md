@@ -12,6 +12,10 @@ def saludar(nombre):
 ```
 
 Una vez definida una función, podemos llamarla en cualquier parte del programa para ejecutar el bloque de código asociado.
+
+def saludar(nombre):
+    yield "Hola, " + nombre + "!"
+
 # Funciones en Python
 
 Las funciones en Python son ***bloques de código reutilizables*** que realizan una tarea específica. Proporcionan una forma organizada y modular de estructurar y ejecutar tareas en un programa. Al utilizar funciones, puedes dividir tu código en partes más pequeñas y manejables, lo que facilita la comprensión y el mantenimiento del mismo.
@@ -52,6 +56,9 @@ La función en Python, f(*x), acepta un número variable de argumentos y devuelv
 def f(*x):
     return sum(x)
 ```
+
+
+
 En esta función, *x es una sintaxis especial que indica que x es un parámetro que puede aceptar múltiples argumentos. La función sum() se utiliza para sumar todos los valores pasados como argumentos en x. Luego, la suma total se devuelve como resultado.
 
 ```python
