@@ -44,6 +44,23 @@ class Persona:
 
     def aumentar_edad(self, cantidad):
         self.edad += cantidad
+    
+    class Persona:
+        def __init__(self, nombre, edad):
+            self.nombre = nombre
+            self.edad = edad
+
+        def saludar(self):
+            print(f"Hola, mi nombre es {self.nombre} y tengo {self.edad} años.")
+
+        def cambiar_nombre(self, nuevo_nombre):
+            self.nombre = nuevo_nombre
+
+        def aumentar_edad(self, cantidad):
+            self.edad += cantidad
+
+        def numero_de_hijos(self, cantidad=2):
+            print(f"Tengo {cantidad} hijos.")
 
 # Crear una instancia de la clase Persona
 persona1 = Persona("Juan", 30)
