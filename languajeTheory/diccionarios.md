@@ -88,4 +88,4 @@ for clave in diccionario:
     print(clave, diccionario[clave])
 ```
 
-Los diccionarios son una estructura de datos poderosa en Python que te permite almacenar y acceder a valores utilizando claves personalizadas. Son útiles para manejar datos estructurados y realizar operaciones de búsqueda eficientes.```
+Los diccionarios son una estructura de datos poderosa en Python que te permite almacenar y acceder a valores utilizando claves personalizadas. Son útiles para manejar datos estructurados y realizar operaciones de búsqueda eficientes.
