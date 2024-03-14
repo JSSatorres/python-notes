@@ -1,7 +1,5 @@
 # Clases en Python
 
-
-
 En Python, las clases se definen utilizando la palabra clave `class` seguida del nombre de la clase. Los constructores se definen dentro de una clase utilizando el método especial `__init__()`.
 
 ```python
